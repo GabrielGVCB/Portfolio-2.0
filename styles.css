@@ -6,12 +6,13 @@
 }
 
 :root {
-    --main-color: #ff0000;
-    --background-color: #330000;
+    --main-color: #EFD6AC;
+    --background-color: #04151F;
     --text-color: #ffffff;
     --secondary-color: #ff3333;
     --accent-color: #ff5555;
-    --dark-accent: #220000;
+    --dark-accent: #183A37;
+    --blue: #0B2534;
 }
 
 body {
@@ -210,8 +211,8 @@ body {
 }
 
 /* Estilos para a seção de trajetória */
-.journey-section {
-    background-color: var(--dark-accent);
+.journeySectionDois {
+    background-color: var(--blue);
     padding: 100px 0;
 }
 
